@@ -1,0 +1,29 @@
+button {
+    font-family: times;
+    background-color: green;
+    border: 6px blue;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  select {
+    font-family: arial;
+    display: block;
+    margin-bottom: 60px;
+    background-color: pink;
+  }
+  
+  .deposit-selection {
+    color: yellowgreen;
+  }
+  
+  .cashback-selection {
+    color: red;
+  }
+  
+  h2 {
+    font-family: times;
+    color: white;
+    background-color: darkmagenta;
+    width: 800px;
+  }
